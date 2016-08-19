@@ -2,12 +2,12 @@
     "author": "jadedResearcher",
     "dependencies": {},
     "keywords": [],
-    "name": "gear",
+    "name": "homestuck",
     "pebble": {
         "capabilities": [
             ""
         ],
-        "displayName": "Gear",
+        "displayName": "Homestuck Watch of Time",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "native",
@@ -48,7 +48,6 @@
         },
         "sdkVersion": "3",
         "targetPlatforms": [
-            "aplite",
             "basalt",
             "chalk"
         ],
@@ -57,5 +56,5 @@
             "watchface": false
         }
     },
-    "version": "1.0.0"
+    "version": "1.1.0"
 }

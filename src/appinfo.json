@@ -1,10 +1,10 @@
 {
-  "uuid": "ed70b15c-3c48-4828-8e8c-e39a28efb38d",
-  "shortName": "Gear",
-  "longName": "TimeGear",
+  "uuid": "466070ba-8968-4e81-95a9-35f72c4293f5",
+  "shortName": "HomestuckWatch",
+  "longName": "Homestuck Watch of Time",
   "companyName": "jadedResearcher",
   "versionCode": 1,
-  "versionLabel": "1.0",
+  "versionLabel": "1.1",
   "sdkVersion": 3,
   "watchapp": {
     "watchface": true
@@ -14,14 +14,24 @@
     "media": [
       {
         "type":"font",
-        "name":"FONT_PERFECT_DOS_48",
-        "file":"perfect-dos-vga.ttf",
+        "name":"DAVE_FONT_25",
+        "file":"dave strider font take 4.ttf",
+        "compatibility": "2.7"
+      },{
+        "type":"font",
+        "name":"DAVE_FONT_45",
+        "file":"dave strider font take 4.ttf",
+        "compatibility": "2.7"
+      },{
+        "type":"font",
+        "name":"DAVE_FONT_80",
+        "file":"dave strider font take 4.ttf",
         "compatibility": "2.7"
       },
       {
         "type":"bitmap",
-        "name":"IMAGE_BACKGROUND",
-        "file":"background.png"
+        "name":"GEAR_BITMAP",
+        "file":"time.png"
       }
     ]
   }
