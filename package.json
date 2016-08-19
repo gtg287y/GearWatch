@@ -1,0 +1,61 @@
+{
+    "author": "jadedResearcher",
+    "dependencies": {},
+    "keywords": [],
+    "name": "gear",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Gear",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/index.png",
+                    "menuIcon": true,
+                    "name": "ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/dave strider font take 4.ttf",
+                    "name": "DAVE_FONT25",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/dave strider font take 4.ttf",
+                    "name": "DAVE_FONT80",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/dave strider font take 4.ttf",
+                    "name": "DAVE_FONT45",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "images/time.png",
+                    "name": "GEAR_BITMAP",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "466070ba-8968-4e81-95a9-35f72c4293f5",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
